@@ -5,61 +5,80 @@
 
 Here are some ideas to get you started:
 
-# 📘 Projeto – Matheus Matias
+# 🌟 Matheus Matias – Repositório Oficial
 
-Bem-vindo ao repositório de **Matheus Matias**!  
-Este projeto contém códigos, anotações e experimentos desenvolvidos com foco em aprendizado contínuo, boas práticas e entrega de soluções eficientes.
-
----
-
-## 🚀 Sobre o Projeto
-
-Este repositório tem como objetivo reunir soluções, estudos e demonstrações práticas nas áreas de:
-
-- Desenvolvimento de software  
-- Automação  
-- Análise de dados  
-- Boas práticas de programação  
-- Projetos pessoais e experimentais
+Bem-vindo ao repositório de **Matheus Matias**, um desenvolvedor focado em criar soluções eficientes, escaláveis e bem documentadas.  
+Aqui você encontrará projetos, estudos, ferramentas e experimentos envolvendo diversas áreas da tecnologia.
 
 ---
 
-## 👨‍💻 Autor
+# 📑 Índice
 
-**Matheus Matias**  
-Desenvolvedor apaixonado por tecnologia, boas práticas e construção de soluções que facilitam o dia a dia.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-Algumas tecnologias que podem estar presentes neste repositório:
-
-- **Python**
-- **JavaScript / Node.js**
-- **HTML / CSS**
-- **Frameworks Web**
-- **APIs REST**
-- **Git & GitHub**
-- **SQL / NoSQL**
+1. [Sobre o Autor](#-sobre-o-autor)  
+2. [Objetivo do Repositório](#-objetivo-do-repositório)  
+3. [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)  
+4. [Estrutura do Projeto](#-estrutura-do-projeto)  
+5. [Como Executar](#-como-executar)  
+6. [Boas Práticas](#-boas-práticas)  
+7. [Roadmap](#-roadmap)  
+8. [Contribuição](#-contribuição)  
+9. [Licença](#-licença)  
+10. [Contato](#-contato)
 
 ---
 
-## 📦 Como Executar o Projeto
+# 👨‍💻 Sobre o Autor
 
-```bash
-# Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+**Matheus Matias** é um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.  
+Gosta de transformar ideias em projetos reais, explorar novas ferramentas e aprimorar constantemente suas habilidades.
 
-# Acesse a pasta do projeto
-cd SEU-REPO
+---
 
-# Instale as dependências (se houver)
-npm install
-# ou
-pip install -r requirements.txt
+# 🎯 Objetivo do Repositório
 
-# Execute o projeto
-npm start
-# ou
-python main.py
+Este repositório tem como proposta:
+
+- Centralizar projetos e estudos de Matheus Matias  
+- Demonstrar habilidades práticas em programação  
+- Registrar evolução profissional e técnica  
+- Servir como base para novos projetos  
+- Compartilhar conhecimento com a comunidade  
+
+---
+
+# 🛠 Tecnologias e Ferramentas
+
+Dependendo do projeto, podem ser utilizadas:
+
+### **Linguagens**
+- Python  
+- JavaScript / TypeScript  
+- HTML / CSS  
+- SQL  
+- Shell Script  
+
+### **Frameworks & Bibliotecas**
+- Node.js  
+- React  
+- Flask / FastAPI  
+- Express  
+- Pandas / NumPy  
+
+### **Ferramentas**
+- Git & GitHub  
+- Docker  
+- VS Code  
+- Postman  
+- Insomnia  
+
+### **Infraestrutura**
+- APIs REST  
+- Banco de Dados (MySQL, PostgreSQL, MongoDB)  
+- CI/CD  
+- Linux  
+
+---
+
+# 📂 Estrutura do Projeto
+
+
