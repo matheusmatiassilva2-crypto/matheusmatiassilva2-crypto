@@ -81,4 +81,6 @@ Dependendo do projeto, podem ser utilizadas:
 
 # 📂 Estrutura do Projeto
 
+Se quiser, posso incluir **badges**, **logo**, **fotos**, **links clicáveis**, ou transformar isso em um **template oficial** para todos os seus projetos. Quer adicionar mais algo?
+
 
